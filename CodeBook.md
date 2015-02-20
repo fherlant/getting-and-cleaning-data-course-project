@@ -34,14 +34,14 @@ Please refer to the `run_analysis.R` for details about the code.
 #### 1. Merge the training and the test sets to create one data set.
 
 1. Create training set dataframe by reading and combining
-+ `train/subject_train.txt`
-+ `train/X_train.txt`
-+ `train/y_train.txt`
+ + `train/subject_train.txt`
+ + `train/X_train.txt`
+ + `train/y_train.txt`
 
 2. Create test set dataframe by reading and combining
-+ `test/subject_test.txt`
-+ `test/X_test.txt`
-+ `test/y_test.txt`
+ + `test/subject_test.txt`
+ + `test/X_test.txt`
+ + `test/y_test.txt`
 
 3. Use rbind() to combine both sets
 
